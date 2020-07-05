@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SurpriseBlue:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="SurpriseBlue.jar">
+      <element id="module-output" name="SurpriseBlue" />
+    </root>
+  </artifact>
+</component>
